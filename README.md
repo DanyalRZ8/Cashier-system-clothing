@@ -77,5 +77,6 @@
     }
   </script>
 </body>
-</html> const validUsername = "danyal";
+</html> 
+const validUsername = "danyal";
 const validPassword = "danyal12345";
